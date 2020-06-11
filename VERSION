@@ -1,0 +1,5 @@
+commit 05e630c2994ad9698c75ef36d0d70fe12cdd1ed4
+Author: Abdón Rodríguez Davila <a@abdonrd.com>
+Date:   Thu Jun 11 18:22:09 2020 +0200
+
+    Remove status in development note (#1264)
